@@ -4,7 +4,7 @@
 ***************Must open the CMD on folder of this project, calling with a test on sqlplus           *************
 ******************************************************************************************************************
 ------------------------------------------------------------------------------------------------------------------
-cmd:> py app.py "sdbanco" "sdbanco" "dev" "sCvApiJpListarArquivos(0,'SAMPLE',poncodigoretorno, pocurdados)"
+cmd:> py app.py "user" "password" "instance" "sCvApimeusitens(0,'SAMPLE',poncodigoretorno, pocurdados)"
 ------------------------------------------------------------------------------------------------------------------
 
 
